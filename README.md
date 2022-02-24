@@ -22,6 +22,6 @@
 - sudo apt install git
 - git clone https://github.com/KaliHacker037/TLink-sms
 - cd  TLink-sms
-- ./Linux-Setup.sh
 - chmod +x *
+- ./Linux-Setup.sh
 - ./TLink-sms.sh 
