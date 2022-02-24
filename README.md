@@ -22,7 +22,7 @@
 - ./Linux-Setup.sh
 
 ## Installation for Linux
-- sudo apt update && apt upgrade
+- sudo apt update && sudo apt upgrade
 - sudo apt install git
 - git clone https://github.com/KaliHacker037/TLink-sms
 - cd  TLink-sms
