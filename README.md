@@ -21,9 +21,9 @@
 - chmod +x *
 - ./Linux-Setup.sh
 
-## Installation 
-- apt update && apt upgrade
-- apt install git
+## Installation for Linux
+- sudo apt update && apt upgrade
+- sudo apt install git
 - git clone https://github.com/KaliHacker037/TLink-sms
 - cd  TLink-sms
 - chmod +x *
