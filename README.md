@@ -10,10 +10,12 @@
 - Red Hat Linux
 
 ## Tested On
-- Termux 
 - Kali Linux
 - Parrot Linux
 - Red Hat Linux
+
+## In furture Avabile on Termux
+- Sorry
 
 ## Setup To Run File on Linux
 - chmod +x *
@@ -22,7 +24,7 @@
 ## Installation 
 - apt update && apt upgrade
 - apt install git
-- git clone https://github.com/KaliLinux037/TLink-sms
+- git clone https://github.com/KaliHacker037/TLink-sms
 - cd  TLink-sms
 - chmod +x *
 - ./TLink-sms.sh 
