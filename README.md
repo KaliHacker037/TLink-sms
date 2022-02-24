@@ -17,14 +17,11 @@
 ## In furture Available on Termux
 - Sorry
 
-## Setup To Run File on Linux
-- chmod +x *
-- ./Linux-Setup.sh
-
 ## Installation for Linux
 - sudo apt update && sudo apt upgrade
 - sudo apt install git
 - git clone https://github.com/KaliHacker037/TLink-sms
 - cd  TLink-sms
+- ./Linux-Setup.sh
 - chmod +x *
 - ./TLink-sms.sh 
