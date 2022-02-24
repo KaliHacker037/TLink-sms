@@ -10,12 +10,10 @@
 - Red Hat Linux
 
 ## Tested On
+- Termux
 - Kali Linux
 - Parrot Linux
 - Red Hat Linux
-
-## In furture Available on Termux
-- Sorry
 
 ## Installation for Linux
 - sudo apt update && sudo apt upgrade
