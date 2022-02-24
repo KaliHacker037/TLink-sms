@@ -15,6 +15,10 @@
 - Parrot Linux
 - Red Hat Linux
 
+## Setup To Run File on Linux
+- chmod +x *
+- ./Linux-Setup.sh
+
 ## Installation 
 - apt update && apt upgrade
 - apt install git
