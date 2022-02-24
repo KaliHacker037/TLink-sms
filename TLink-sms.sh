@@ -5,7 +5,7 @@
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
 #Youtube channel : https://www.youtube.com/channel/UC_jJeh1MrNM_e7CqGydw3ug
-#Github >>> : https://github.com/KaliLinux037 
+#Github >>> : https://github.com/KaliHacker037
 #AnonyMux
 #KaliLinux037
 #KaliHacker 
@@ -38,12 +38,12 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'nullroot1020@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UC_jJeh1MrNM_e7CqGydw3ug \n GITHUB : https://github.com/KaliLinux037 \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'nullroot1020@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UC_jJeh1MrNM_e7CqGydw3ug \n GITHUB : https://github.com/KaliHacker037 \n"
 sleep 7
 clear
 cd
 rm -rf Vaim-sms
-git clone https://github.com/KaliLinux037/TLink-sms
+git clone https://github.com/KaliHacker037/TLink-sms
 cd Vaim-sms
 chmod +x *
 clear
