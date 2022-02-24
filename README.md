@@ -14,7 +14,7 @@
 - Parrot Linux
 - Red Hat Linux
 
-## In furture Avabile on Termux
+## In furture Available on Termux
 - Sorry
 
 ## Setup To Run File on Linux
